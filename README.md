@@ -12,3 +12,5 @@ PHP is a server-side scripting language primarily used for web development. It h
 ## Course Videos ##
 1. Installing PHP / Running Local Server (https://www.youtube.com/watch?v=XJXd7uugoeA "Installing PHP / Running Local Server")
 2. Our First PHP Page (https://www.youtube.com/watch?v=Pc8XbT9JnX8 "Our First PHP Page")
+3. PHPinfo and PHP.ini (https://www.youtube.com/watch?v=kIxQHGckwK4 "PHPInfo and PHP.ini")
+4. Echo vs. Print (https://www.youtube.com/watch?v=lJKdQz-aB6Y "Echo vs Print")
