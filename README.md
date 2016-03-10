@@ -1,6 +1,6 @@
 # Accio Code Tutorials: PHP#
 
-***Updated: 2-27-16***
+***Updated: 3-8-16***
 
 This tutorial series for [AccioCode](https://www.youtube.com/user/CDPAdvertising "Accio Code on YouTube") will show how to use the basics of PHP.
 
@@ -15,3 +15,4 @@ PHP is a server-side scripting language primarily used for web development. It h
 3. PHPinfo and PHP.ini (https://www.youtube.com/watch?v=kIxQHGckwK4 "PHPInfo and PHP.ini")
 4. Echo vs. Print (https://www.youtube.com/watch?v=lJKdQz-aB6Y "Echo vs Print")
 5. PHP Variables (https://www.youtube.com/watch?v=Mk1958mc5CA "PHP Variables")
+6. Concatenating String (https://www.youtube.com/watch?v=Q0ONi43wbEA "Concatenating Strings")
