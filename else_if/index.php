@@ -1,6 +1,7 @@
 <?php
 $name       = "John Scnepp";
 $group      = "Kanjiklub";
+$group2     = "author of The Pride";
 
 if($name == "Mark Ellis")
 {
@@ -8,7 +9,7 @@ if($name == "Mark Ellis")
 }
 elseif($name == "John Campea")
 {
-    echo "Author of the book 'The Pride'.";
+    echo "$group2.";
 }
 else
 {
