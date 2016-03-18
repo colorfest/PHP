@@ -1,6 +1,6 @@
 # Accio Code Tutorials: PHP#
 
-***Updated: 3-8-16***
+***Updated: 3-16-16***
 
 This tutorial series for [AccioCode](https://www.youtube.com/user/CDPAdvertising "Accio Code on YouTube") will show how to use the basics of PHP.
 
@@ -18,3 +18,4 @@ PHP is a server-side scripting language primarily used for web development. It h
 6. PHP Variables (https://www.youtube.com/watch?v=Mk1958mc5CA "PHP Variables")
 7. Concatenating String (https://www.youtube.com/watch?v=Q0ONi43wbEA "Concatenating Strings")
 8. If, Else and ElseIf (https://www.youtube.com/watch?v=T-s07k0rSdM "If, Else and ElseIf")
+9. How To Use Operators in PHP (https://www.youtube.com/watch?v=GZjd4cv7nls "How To Use Operators in PHP")
